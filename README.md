@@ -1,0 +1,1 @@
+A collection of my Full Stack Development coursework from university. This repository showcases projects and exercises covering both front-end and back-end development, including web applications, APIs, databases, and other practical assignments completed throughout the course.
